@@ -1,2 +1,2 @@
 rootProject.name='Telephony_And8AM2020'
-include ':app'
+include ':app', ':activation', ':additionnal', ':mail'
